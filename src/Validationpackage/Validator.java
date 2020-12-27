@@ -9,7 +9,7 @@ public class Validator {
     	  }
     	  else
     	  {
-              throw new ConfigurationMisMatchException();  
+              throw new ConfigurationMisMatchException("Unable to install the game");  
              
     	  }
     	   		  
